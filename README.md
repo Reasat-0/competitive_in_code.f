@@ -1,0 +1,3 @@
+# competitive_in_code.f
+
+Here I have restarted my competitive programing way once again with newer platform and storing it over here....
